@@ -1,6 +1,7 @@
 
-*{
-
+body{
+	background-color: #a9a9ab;
+	width: 100%;
 }
 
 .navbar-default{
@@ -35,4 +36,45 @@ h4{
 
 .fa-long-arrow-right:before{
 	color: #f6a800;
+}
+
+
+.btn-default{
+	background-color: #f6a800;
+	color: white;
+	margin-top: 40%;
+	border: none;
+	border-radius: 0;
+	padding: 8px 90px;
+	font-size: 18px;
+}
+
+#boton-dos{
+	background-color: #f6a800;
+	color: white;
+	margin-top: 4%;
+	border: none;
+	border-radius: 0;
+	padding: 8px 60px;
+	font-size: 18px;
+}
+
+#boton-tres{
+	background-color: #f6a800;
+	color: white;
+	margin-top: 4%;
+	border: none;
+	border-radius: 0;
+	padding: 8px 110px;
+	font-size: 18px;
+}
+
+#boton-cuatro{
+	background-color: #f6a800;
+	color: white;
+	margin-top: 4%;
+	border: none;
+	border-radius: 0;
+	padding: 8px 24px;
+	font-size: 18px;
 }
