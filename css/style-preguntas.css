@@ -68,7 +68,7 @@
       background-color: #f6a800;
    }
 
-    .navbar-default{
+   .navbar-default{
       background-color: #3e3f41;
       bottom: 0;
    }
@@ -80,19 +80,19 @@
    }
 
    .navbar{
-   margin-bottom: 0;
-}
+      margin-bottom: 0;
+   }
 
-  .navbar-collapse{
+   .navbar-collapse{
       background-color: white;   
    }
 
-     .fa-dollar:before, .fa-usd:before {
-    color: #f6a800;
-    margin-left: 150%;
- }
+   .fa-dollar:before, .fa-usd:before {
+     color: #f6a800;
+     margin-left: 150%;
+  }
 
- .fa-th:before{
+  .fa-th:before{
    color: #f6a800;
    margin-left: 150%;
 }
@@ -127,5 +127,24 @@ h2{
 }
 
 #first{
-   padding-top: 8px 40px;
+   margin-top: 15%;
+   margin-left: -2%;
+   padding: 8px 133px;
+   border-radius: 0;
 }
+
+#second{
+   padding: 8px 125px;
+   border-radius: 0;
+}
+
+#third{
+   padding: 8px 130px;
+   border-radius: 0;
+}
+
+p{
+   border-radius: 0; 
+}
+
+
