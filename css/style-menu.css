@@ -4,39 +4,49 @@ body{
 	width: 100%;
 }
 
-.navbar-default{
-	background-color: #3e3f41 ;
-}
-
 h4{
 	color: white;
 	margin-left: 24%;
 	margin-top: 5%;
 }
 
+.navbar-default{
+	background-color: #3e3f41 ;
+}
+
 .navbar-collapse{
-	background-color: white;
+	background-color: white;	
 }
 
 .fa-dollar:before, .fa-usd:before {
 	color: #f6a800;
+	margin-left: 150%;
 }
 
 .fa-th:before{
 	color: #f6a800;
+	margin-left: 150%;
 }
 
 .fa-user:before{
 	color: #f6a800;
+	margin-left: 150%;
 }
 
 .fa-align-justify:before{
 	color: #f6a800;
+	margin-left: 150%;
 }
 
 .fa-long-arrow-right:before{
 	color: #f6a800;
+	margin-left: 150%;
 }
+
+a:-webkit-any-link{
+	margin-left: 10%;
+}
+
 
 
 .btn-default{
@@ -65,7 +75,7 @@ h4{
 	margin-top: 4%;
 	border: none;
 	border-radius: 0;
-	padding: 8px 110px;
+	padding: 8px 111px;
 	font-size: 18px;
 }
 
@@ -75,6 +85,6 @@ h4{
 	margin-top: 4%;
 	border: none;
 	border-radius: 0;
-	padding: 8px 24px;
+	padding: 8px 23px;
 	font-size: 18px;
 }
