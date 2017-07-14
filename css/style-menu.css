@@ -1,0 +1,38 @@
+
+*{
+
+}
+
+.navbar-default{
+	background-color: #3e3f41 ;
+}
+
+h4{
+	color: white;
+	margin-left: 24%;
+	margin-top: 5%;
+}
+
+.navbar-collapse{
+	background-color: white;
+}
+
+.fa-dollar:before, .fa-usd:before {
+	color: #f6a800;
+}
+
+.fa-th:before{
+	color: #f6a800;
+}
+
+.fa-user:before{
+	color: #f6a800;
+}
+
+.fa-align-justify:before{
+	color: #f6a800;
+}
+
+.fa-long-arrow-right:before{
+	color: #f6a800;
+}
