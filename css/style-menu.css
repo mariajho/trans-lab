@@ -146,6 +146,16 @@ a:-webkit-any-link{
 	font-size: 18px;
 }
 
+#boton-cinco{
+   background-color: #f6a800;
+   color: white;
+   margin-top: 4%;
+   border: none;
+   border-radius: 0;
+   padding: 8px 115px;
+   font-size: 18px;
+}
+
 h4{
    text-align: center;
    color: white;
