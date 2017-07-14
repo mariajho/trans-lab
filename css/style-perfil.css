@@ -51,3 +51,100 @@
    	border-collapse: collapse;
    	border-spacing: 0;
    }
+
+
+   /*Perfil*/
+
+   *{
+
+      font-family: 'Oswald', sans-serif;
+   }
+
+   h4{
+      color: white;
+      margin-left: 24%;
+      margin-top: 5%;
+   }
+
+   .fa-user-circle:before{
+      width: 50px;
+      height: 50px;
+   }
+
+
+   .navbar-default{
+      background-color: #3e3f41 ;
+   }
+
+   .navbar-collapse{
+      background-color: white;   
+   }
+
+
+   img{
+      width: 150px;
+      height: 150px;
+      color: #a9a9ab;
+      text-decoration: none;
+      margin-top: 8%;
+   }
+
+   .fa-dollar:before, .fa-usd:before {
+    color: #f6a800;
+    margin-left: 150%;
+ }
+
+ .fa-th:before{
+   color: #f6a800;
+   margin-left: 150%;
+}
+
+.fa-user:before{
+   color: #f6a800;
+   margin-left: 150%;
+}
+
+.fa-align-justify:before{
+   color: #f6a800;
+   margin-left: 150%;
+}
+
+.fa-long-arrow-right:before{
+   color: #f6a800;
+   margin-left: 150%;
+}
+
+a:-webkit-any-link{
+   margin-left: 10%;
+}
+
+input{
+   margin-top: 10%;
+   color: #a9a9ab;
+   border: none;
+   text-align: center;
+   padding: 8px 50px;
+}
+
+#perfil{
+   background-color: #e58134;
+   height: 200px;
+
+}
+
+.text-uppercase{
+   font-size: 10px;
+}
+
+hr{
+   margin-bottom: 60%;
+   color:  #3e3f41;
+}
+
+.navbar{
+   margin-bottom: 0;
+}
+
+#tarjetas{
+   background-color: #a9a9ab;
+}
