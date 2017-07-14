@@ -24,15 +24,6 @@ $(document).ready(function(){
 });
 
 
-
-
-
-
-
-
-
-
-
 /*var codigo = /^[a-zA-Z0-9_\.\-]+@[a-zA-Z0-9\-]+\.[a-zA-Z0-9\-\.]+$/;
 $(document).ready(function(){
 	$("#boton").click(function(){
