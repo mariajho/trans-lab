@@ -23,6 +23,7 @@
    	font: inherit;
    	vertical-align: baseline;
    }
+
    /* HTML5 display-role reset for older browsers */
    article, aside, details, figcaption, figure, 
    footer, header, hgroup, menu, nav, section {
@@ -52,47 +53,35 @@
    	border-spacing: 0;
    }
 
-   /*preguntas*/
 
-   *{
-      margin: 0;
-      padding: 0;
-      font-family: 'Oswald', sans-serif;
-   }
+   /*saldo*/
 
-   body{
-      background-color: #DCDCDC;
-   }
+*{
+	font-family: 'Oswald', sans-serif;
+}
 
-   #preguntas{
-      background-color: #f6a800;
-   }
+body{
+   background-color: #DCDCDC;
+}
 
-   .navbar-default{
+ .navbar-default{
       background-color: #3e3f41;
       bottom: 0;
    }
-   
-   h4{
+
+h4{
       color: white;
       margin-left: 35%;
       margin-top: 5%;
    }
 
-   .navbar{
-      margin-bottom: 0;
-   }
 
-   .navbar-collapse{
-      background-color: white;   
-   }
+.fa-dollar:before, .fa-usd:before {
+   color: #f6a800;
+   margin-left: 150%;
+}
 
-   .fa-dollar:before, .fa-usd:before {
-     color: #f6a800;
-     margin-left: 150%;
-  }
-
-  .fa-th:before{
+.fa-th:before{
    color: #f6a800;
    margin-left: 150%;
 }
@@ -112,40 +101,19 @@
    margin-left: 150%;
 }
 
-a:-webkit-any-link{
-   margin-left: 10%;
+a:-webkit-any-link {
+    margin-left: -57%;
 }
 
-#naranjo{
-   height: 200px;
+.caret{
+   color: black;
+   background-color: white;
 }
 
-h2{
-   color: white;
-   margin-top: 25%;
-   font-weight: bold;
-   font-size: 18px;
+.control-label{
+   margin-right: 5%;
 }
 
-#first{
-   margin-top: 15%;
-   margin-left: -2%;
-   padding: 8px 133px;
+.form-control{
    border-radius: 0;
 }
-
-#second{
-   padding: 8px 125px;
-   border-radius: 0;
-}
-
-#third{
-   padding: 8px 130px;
-   border-radius: 0;
-}
-
-p{
-   border-radius: 0; 
-}
-
-
