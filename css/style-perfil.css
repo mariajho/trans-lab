@@ -60,10 +60,15 @@
       font-family: 'Oswald', sans-serif;
    }
 
+   body{
+      background-color: #DCDCDC;
+   }
+
    h4{
       color: white;
-      margin-left: 24%;
+      margin-left: 35%;
       margin-top: 5%;
+     
    }
 
    .fa-user-circle:before{
@@ -73,7 +78,7 @@
 
 
    .navbar-default{
-      background-color: #3e3f41 ;
+      background-color: #3e3f41;
    }
 
    .navbar-collapse{
@@ -114,31 +119,16 @@
    margin-left: 150%;
 }
 
-a:-webkit-any-link{
-   margin-left: 10%;
-}
-
-input{
-   margin-top: 10%;
-   color: #a9a9ab;
-   border: none;
-   text-align: center;
-   padding: 8px 50px;
-}
-
 #perfil{
-   background-color: #e58134;
-   height: 200px;
-
+   background-color: #FCBE24;
+  
 }
 
 .text-uppercase{
-   font-size: 10px;
-}
-
-hr{
-   margin-bottom: 60%;
-   color:  #3e3f41;
+float: left;
+margin-right: 40%;
+margin-top: 8%;
+color: #3e3f41;
 }
 
 .navbar{
@@ -146,5 +136,42 @@ hr{
 }
 
 #tarjetas{
-   background-color: #a9a9ab;
+   background-color: #DCDCDC;
 }
+
+.text-uppercase{
+   font-size: 10px;
+}
+
+a:-webkit-any-link{
+   margin-left: 10%;
+}
+
+.btn-default{
+   padding: 8px 60px;
+   color: white;
+   background-color: #FCBE24;
+   border: none;
+   border-radius: 0;
+   margin-top: 1%;
+}
+   
+input{
+   margin-top: 10%;
+   color:  #3e3f41;
+   border: none;
+   padding: 8px 35px;
+   text-align: center;
+}
+
+#numero{
+   background-color: #DCDCDC;
+}
+
+#agregar-tarjeta{
+   background-color: #DCDCDC;
+   border: none;
+   text-decoration: none;
+   border-radius: 0;
+}
+
