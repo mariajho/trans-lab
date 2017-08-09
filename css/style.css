@@ -66,11 +66,11 @@
 
    #logo{
       margin-top: 30%;
-      width: 100px;
-      height: 100px;
+      width: 45%;
+     
    }
 
-   h1{
+  #trans{
       color: #f6a800;
       font-weight: bold;
       margin-top: 4%;
@@ -78,56 +78,32 @@
       font-size: 23px;
    }
 
-
-   .input-group-addon:first-child {
-      border-radius: 0;
-      border: none;
-      background-color: white;
-   }
-
-   .input-group .form-control:last-child {
-      border-radius: 0;
-      border: none;
-   }
-
    .btn-default {
       color: #3e3f41;
       background-color: #f6a800;
       border-radius: 0;
       border: none;
-      padding: 10px 92px;
+      padding: 10px 87px;
    }
 
-   .fa-user:before{
+   .datos{
+      width: 280px;
+      height: 50px;
+   }
+   
+   .olvidaste{
+      color: white;
+      margin-right: 37%;
+   }
+
+   .palabra-blanca{
       color: white;
    }
 
-   h6{
-      color: white;
-      margin-top: 6%;
-      margin-right: 57%;
-      margin-bottom: 35%;
-      font-size: 12px;
-   }
-
-   .blanco{
-      color:white;
-
-   }
-
-   .amarillo{
+   .palabra-amarilla{
       color: #f6a800;
-
    }
-
-   #registrate{
-      margin-top: 9%;
-   }
-
-   a:-webkit-any-link{
-      font-size: 13px;
-   }
-
-   img{
-      text-align: center;
-   }
+  
+  .ultimo{
+   padding-top: 18%;
+  }
